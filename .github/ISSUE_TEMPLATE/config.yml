@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 質問・相談
+    url: https://github.com/aisaikyo0000-spec/github_practics/issues/new
+    about: つまずいたら question ラベルで質問してください
