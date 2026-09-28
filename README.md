@@ -9,7 +9,7 @@
 - 最初に読むページ: [lessons/00-start-here.md](lessons/00-start-here.md)
 
 ---
-
+yah
 ## この教材は何なのか
 
 「読むだけ」ではなく「操作して理解する」ための教材です。
